@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="082f4897-d744-4e05-8f74-284fb8a6d1bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/DemoHibernate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/DemoHibernate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/dao/FormationDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/dao/FormationDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/service/GestionnaireFormation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/service/GestionnaireFormation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/Formation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/Formation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/Formation.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/Formation.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/util/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/util/HibernateUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test.lck" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/DemoHibernate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/DemoHibernate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/dao/FormationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/dao/FormationDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/service/GestionnaireFormation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/service/GestionnaireFormation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.java" afterDir="false" />
-    </list>
+    <list default="true" id="082f4897-d744-4e05-8f74-284fb8a6d1bc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584962315295</updated>
-      <workItem from="1584962342896" duration="2712000" />
+      <workItem from="1584962342896" duration="3308000" />
     </task>
     <servers />
   </component>
