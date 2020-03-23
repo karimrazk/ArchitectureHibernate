@@ -5,17 +5,15 @@ import com.technomaker.demohibernate.simple.Formation;
 
 public class GestionnaireFormation {
 
-		FormationDao formationDao;
+    FormationDao formationDao;
 
-	public void creerFormation(Formation formation) {
-	}
+    // Rendre persistant une formation : déléguer à couche Dao !
 
-	// Rendre persistant une formation : déléguer à couche Dao !
-	
-	
-		
-		
-		
-		
-		
+    public GestionnaireFormation() {
+        this.formationDao = new FormationDao();
+    }
+
+    public Long creerFormation(Formation formation) {
+        return this.formationDao.creerFormation(formation);
+    }
 }
