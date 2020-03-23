@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="16396a7e-b31f-438d-8626-d9d79e9170c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architectureHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/architectureHibernate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/DemoHibernate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/DemoHibernate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/service/GestionnaireFormation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/service/GestionnaireFormation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584957777714</updated>
-      <workItem from="1584957781384" duration="2258000" />
+      <workItem from="1584957781384" duration="2864000" />
     </task>
     <servers />
   </component>
@@ -50,5 +51,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Assign_Data_Sources/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584960756345" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1584961360310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584961360310" />
   </component>
 </project>

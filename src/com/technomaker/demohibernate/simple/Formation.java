@@ -8,5 +8,9 @@ public class Formation {
     private String theme;
 
 
+    public Formation(String theme) {
+    }
 
+    public Formation() {
+    }
 }
