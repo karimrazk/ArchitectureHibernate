@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="fr.norsys.technomaker.demohibernate.simple.Participant" table="PARTICIPANTS">
+        <id name="id" column="PARTICIPANT_ID" type="java.lang.Long">
+            <generator class="native"/>
+        </id>
+        <property name="lastName" column="PARTICIPANT_LASTNAME" type="java.lang.String"/>
+        <property name="firstName" column="PARTICIPANT_FIRSTNAME" type="java.lang.String"/>
+        <property name="email" column="PARTICIPANT_EMAIL" type="java.lang.String"/>
+    </class>
+</hibernate-mapping>

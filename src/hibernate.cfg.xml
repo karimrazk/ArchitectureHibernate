@@ -30,7 +30,7 @@
         <!-- Hibernate gère automatiquement le contexte de session -->
         <property name="current_session_context_class">thread</property>
 
-        <mapping resource="com/technomaker/demohibernate/simple/Formation.hbm.xml"/>
-        <mapping resource="com/technomaker/demohibernate/simple/Participant.hbm.xml"/>
+        <mapping resource="fr/norsys/technomaker/demohibernate/simple/Formation.hbm.xml"/>
+        <mapping resource="fr/norsys/technomaker/demohibernate/simple/Participant.hbm.xml"/>
     </session-factory>
 </hibernate-configuration>

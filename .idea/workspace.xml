@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="082f4897-d744-4e05-8f74-284fb8a6d1bc" name="Default Changelist" comment="" />
+    <list default="true" id="082f4897-d744-4e05-8f74-284fb8a6d1bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/DemoHibernate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/dao/ParticipantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/service/GestionnaireService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/simple/Participant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/DemoHibernate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/dao/FormationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/service/GestionnaireFormation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/Formation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/Formation.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/technomaker/demohibernate/simple/util/HibernateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test.lck" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test.script" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/DemoHibernate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/dao/FormationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/dao/FormationDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/service/GestionnaireFormation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/simple/Formation.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Formation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/simple/Formation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Participant.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/simple/Participant.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/Participant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple/util/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/norsys/technomaker/demohibernate/simple/util/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,8 +53,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/technomaker/demohibernate/simple" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.technomaker.demohibernate.dao" />
+      <recent name="com.technomaker.demohibernate.simple" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IntelliJ_IDEA_workshop_norsys_2020\architectureHibernate\src\com\technomaker\demohibernate\simple" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoHibernate (1)">
+    <configuration name="DemoHibernate (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.norsys.technomaker.demohibernate.DemoHibernate" />
+      <module name="architectureHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.norsys.technomaker.demohibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoHibernate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.technomaker.demohibernate.DemoHibernate" />
       <module name="architectureHibernate" />
@@ -37,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoHibernate (1)" />
         <item itemvalue="Application.DemoHibernate" />
       </list>
     </recent_temporary>
@@ -51,7 +108,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584962315295</updated>
-      <workItem from="1584962342896" duration="3308000" />
+      <workItem from="1584962342896" duration="4464000" />
+      <workItem from="1584969843814" duration="1913000" />
+      <workItem from="1585044720284" duration="17122000" />
     </task>
     <servers />
   </component>
@@ -67,25 +126,51 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Inspections/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584963229935" />
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1584964213019">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585044740503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585044740503" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1585053158435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584964213019" />
-    <state width="1493" height="471" key="GridCell.Tab.0.bottom" timestamp="1584964575406">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585053158435" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585045078536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.bottom/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584964575406" />
-    <state width="1493" height="471" key="GridCell.Tab.0.center" timestamp="1584964575405">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584969876996" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585045078536" />
+    <state width="1493" height="471" key="GridCell.Tab.0.bottom" timestamp="1585062733017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.center/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584964575405" />
-    <state width="1493" height="471" key="GridCell.Tab.0.left" timestamp="1584964575405">
+    <state width="1493" height="471" key="GridCell.Tab.0.bottom/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584969812226" />
+    <state width="1493" height="471" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585062733017" />
+    <state width="1493" height="471" key="GridCell.Tab.0.center" timestamp="1585062733017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.left/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584964575405" />
-    <state width="1493" height="471" key="GridCell.Tab.0.right" timestamp="1584964575405">
+    <state width="1493" height="471" key="GridCell.Tab.0.center/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584969812225" />
+    <state width="1493" height="471" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585062733017" />
+    <state width="1493" height="471" key="GridCell.Tab.0.left" timestamp="1585062733017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="471" key="GridCell.Tab.0.right/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584964575405" />
+    <state width="1493" height="471" key="GridCell.Tab.0.left/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584969812223" />
+    <state width="1493" height="471" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585062733017" />
+    <state width="1493" height="471" key="GridCell.Tab.0.right" timestamp="1585062733017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="471" key="GridCell.Tab.0.right/0.0.1536.824/-1280.51.1280.984@0.0.1536.824" timestamp="1584969812225" />
+    <state width="1493" height="471" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585062733017" />
+    <state x="209" y="0" key="new project wizard" timestamp="1585044975144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585044975144" />
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1585049972885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585049972885" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585049816533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585049816533" />
   </component>
 </project>

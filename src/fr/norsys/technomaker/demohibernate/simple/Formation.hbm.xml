@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="fr.norsys.technomaker.demohibernate.simple.Formation" table="FORMATIONS">
+        <id name="id" column="FORMATION_ID" type="java.lang.Long">
+            <generator class="native"/>
+        </id>
+        <property name="theme" column="FORMATION_THEME" type="java.lang.String"/>
+        <set name="participants" lazy="true" cascade="persist" fetch="join">
+            <key column="FORMATION_ID"/>
+            <one-to-many class="fr.norsys.technomaker.demohibernate.simple.Participant"/>
+        </set>
+    </class>
+</hibernate-mapping>
